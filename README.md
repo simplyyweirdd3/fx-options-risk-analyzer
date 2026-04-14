@@ -35,7 +35,7 @@ The Garman-Kohlhagen model extends Black-Scholes to account for two interest rat
 ```
 fx-options-risk-analyzer/
 ├── README.md
-├── datatranslator_finalproject.py    # Main script with all classes and functions
+├── fx_options_risk_analyzer.py       # Main script with all classes and functions
 └── pf_test1_currency_data.csv        # Sample portfolio data (required for demo)
 ```
 
@@ -63,7 +63,7 @@ fx-options-risk-analyzer/
 ## How to Run
 
 ```bash
-python datatranslator_finalproject.py
+python fx_options_risk_analyzer.py
 ```
 
 Make sure `pf_test1_currency_data.csv` is in the same directory.
