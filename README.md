@@ -80,4 +80,4 @@ The tool identifies the worst overnight scenario and produces a bar chart showin
 
 **Ruman Sidhu**  
 MS in Data Science, Seattle University  
-[GitHub](https://github.com/simplyyweirdd3) · [Email](mailto:rumansidhu2581@gmail.com)
+[GitHub](https://github.com/simplyyweirdd3) · [Email](mailto:rsidhu2@seattleu.edu)
